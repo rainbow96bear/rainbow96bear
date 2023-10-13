@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white"/>
 
-  ### :wrench:Tools
+  ### Tools
 
   <img src="https://img.shields.io/badge/postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
@@ -62,6 +62,8 @@
 ## SNS & Blog
 
 <div style="display:flex; flex-direction:row;">
+  
+### Click and ConTact
   
   [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&link=https://rainbow96bear.tistory.com/)](https://rainbow96bear.tistory.com/)
   [![Linkedin](https://img.shields.io/badge/linkedin-0A66C20?style=flat-square&logo=linkedin&logoColor=white&link=mailto:rainbow96bear@gmail.com)](https://www.linkedin.com/in/성진-김-a7aba3249)
