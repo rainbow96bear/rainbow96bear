@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  ## :Status
+  ## Status
   <br>
   
   ![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainbow96bear&theme=cobalt)
