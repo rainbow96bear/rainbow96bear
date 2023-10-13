@@ -5,10 +5,10 @@
 
 <div align="center">
   
-  ## Status
+  ## :Status
   <br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainbow96bear&show_icons=true&theme=radical)
+  ![bi-sz's GitHub stats](https://github-readme-stats.vercel.app/api?username=rainbow96bear&theme=cobalt)
 </div>
 
 <div align="center">
@@ -56,6 +56,26 @@
   
 </div>
 
+<br>
+<div align="center">
+
+## SNS & Blog
+
+<div style="display:flex; flex-direction:row;">
+  
+  [![Tistory](https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&link=https://rainbow96bear.tistory.com/)](https://rainbow96bear.tistory.com/)
+  [![Linkedin](https://img.shields.io/badge/linkedin-0A66C20?style=flat-square&logo=linkedin&logoColor=white&link=mailto:rainbow96bear@gmail.com)](https://www.linkedin.com/in/성진-김-a7aba3249)
+  [![Notion](https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white&link=https://bit.ly/rainbow96bear)](https://skillful-diver-ebb.notion.site/b4a7f41788824a94bde47b806f1877b4)
+
+</div>
+<div align="center">
+
+
+
+  
+
+
+</div>
 
 <!--
 **rainbow96bear/rainbow96bear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
